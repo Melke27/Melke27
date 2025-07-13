@@ -15,10 +15,10 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: melkamu27wako@gmail.com
+- 📧 Email: melkamuwako5@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/melkamu-wako](https://www.linkedin.com/in/melkamu-wako-536174318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BuIEBB2OnSR%2BvVmDSU1TR6g%3D%3D)
 - 💼 GitHub: [Melke27](https://github.com/Melke27)
 
 ---
 
-> 💡 *“When I sleep, I code the problems.” – Melkamu Wako*
+> 💡
