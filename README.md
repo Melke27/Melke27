@@ -17,13 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
-</p>
-
----
-
 ## 🚀 Currently Learning
 - Full-Stack Web Development (MERN)
 - Backend APIs & Authentication
