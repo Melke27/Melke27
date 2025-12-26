@@ -44,11 +44,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melkamu-wako-536174318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BuIEBB2OnSR%2BvVmDSU1TR6g%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melkamuwako@astu.edu.et) 
 
@@ -63,6 +58,9 @@
 [![](https://visitcount.itsvg.in/api?id=melke27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## 🐍 Contribution Animation
+![snake animation](https://github.com/melke27/melke27/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔗 Connect With Me
 - GitHub: https://github.com/melke27
 - LinkedIn:(https://www.linkedin.com/in/melkamu-wako-536174318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BuIEBB2OnSR%2BvVmDSU1TR6g%3D%3D)
@@ -73,4 +71,4 @@
 </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> and please add me deffrent animations and images please help me please please
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
