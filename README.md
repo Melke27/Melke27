@@ -1,5 +1,62 @@
-# 💫 About Me:
-🎓 I'm a Computer Science and Engineering student at Adama Science and Technology University (ASTU).<br>💻 I specialize in Front-End Development, and I'm currently exploring Full-Stack Web Development and Cybersecurity.<br>👨‍💻 Member of CSEC_ASTU, active in technical communities and open-source learning.<br>🔧 I love building practical projects to sharpen my skills and collaborate with others.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Melkamu+Wako;Front-End+Developer;Future+Full-Stack+%26+Cybersecurity+Engineer;Computer+Science+Student+at+ASTU" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360"/>
+</p>
+
+---
+
+## 💫 About Me
+🎓 **Computer Science and Engineering student** at **Adama Science and Technology University (ASTU)**  
+💻 **Front-End Developer**, currently exploring **Full-Stack Web Development** and **Cybersecurity**  
+👨‍💻 Active member of **CSEC_ASTU**, involved in technical communities and open-source learning  
+🔧 Passionate about building **practical projects**, improving skills, and collaborating with others  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+- Full-Stack Web Development (MERN)
+- Backend APIs & Authentication
+- Cybersecurity fundamentals
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (coming soon)
+
 
 
 ## 🌐 Socials:
