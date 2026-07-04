@@ -180,6 +180,18 @@ community: CSEC_ASTU
 
 ---
 
+## 🏅 Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/melke27">
+    <img src="https://cp-logo.vercel.app/codeforces/melke27" />
+  </a>
+  <br><br>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=melke27&theme=tokyonight" />
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -204,6 +216,14 @@ community: CSEC_ASTU
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>
 
 ---
 
