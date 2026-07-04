@@ -1,71 +1,133 @@
+<h1 align="center">Hi 👋, I'm Melkamu Wako</h1>
+
+<h3 align="center">Full-Stack MERN Developer | Computer Science Student | Open Source Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Melkamu+Wako;Full-Stack+MERN+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Computer+Science+Student+at+ASTU;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Computer+Science+Student+at+ASTU;Passionate+about+Web+Development;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 </p>
 
 ---
 
-## 💫 About Me
-🎓 **Computer Science and Engineering student** at **Adama Science and Technology University (ASTU)**  
-💻 **Full-Stack MERN Stack Developer**  
-🔐 Exploring **Cybersecurity** and **secure web systems**  
-👨‍💻 Active member of **CSEC_ASTU**, engaged in technical communities and open-source learning  
-🔧 Passionate about building **real-world projects**, problem-solving, and team collaboration  
+# 💫 About Me
+
+🎓 Computer Science and Engineering Student at **Adama Science and Technology University (ASTU)**
+
+💻 Full-Stack MERN Stack Developer
+
+🌱 Currently learning **Advanced Backend Development, System Design & Cybersecurity**
+
+👨‍💻 Active member of **CSEC_ASTU**
+
+🚀 Interested in Open Source, Web Applications and Cloud Technologies
+
+📫 Reach me at:
+
+**melkamu.wako@astu.edu.et**
 
 ---
 
-## 🚀 Currently Learning
-- Full-Stack Web Development (MERN)
-- Backend APIs & Authentication
-- Cybersecurity fundamentals
+# 🚀 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=melke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melke27&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=melke27&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=melke27&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melke27&layout=compact&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=melke27&theme=tokyonight&margin-w=10"/>
+
 </p>
----
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melkamu-wako-536174318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BuIEBB2OnSR%2BvVmDSU1TR6g%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melkamuwako@astu.edu.et) 
+# 🐍 Contribution Graph
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=melke27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=melke27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melke27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=melke27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🐍 Contribution Animation
-![snake animation](https://github.com/melke27/melke27/blob/output/github-contribution-grid-snake.svg)
-
-## 🔗 Connect With Me
-- GitHub: https://github.com/melke27
-- LinkedIn:(https://www.linkedin.com/in/melkamu-wako-536174318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BuIEBB2OnSR%2BvVmDSU1TR6g%3D%3D)
-
-## 🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://github.com/melke27/melke27/blob/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/melke27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/melkamu-wako-536174318">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:melkamu.wako@astu.edu.et">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=melke27&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
