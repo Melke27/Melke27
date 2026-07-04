@@ -175,7 +175,7 @@ community: CSEC_ASTU
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melke27&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" />
+  <img src="https://trophy.ryglcloud.net/?username=melke27&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" />
 </p>
 
 ---
