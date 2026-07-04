@@ -153,10 +153,10 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melke27&theme=tokyonight&margin-w=10&no-frame=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melke27&theme=github-dark" />
 </p>
 
 ---
