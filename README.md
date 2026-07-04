@@ -174,10 +174,8 @@ community: CSEC_ASTU
 
 ## 🏆 Trophies
 
-> *Trophies are automatically generated daily via GitHub Actions*
-
 <p align="center">
-  <img src="assets/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=melke27&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" />
 </p>
 
 ---
