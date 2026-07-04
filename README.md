@@ -163,11 +163,11 @@ community: CSEC_ASTU
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melke27&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=melke27&theme=tokyonight&border_radius=10" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melke27&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melke27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melke27&theme=tokyonight" />
 </div>
 
 ---
